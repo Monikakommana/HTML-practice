@@ -1,0 +1,13 @@
+<!-- for vite development entry file only -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script type="module" crossorigin src="https://userapp.zyrosite.com/1747230908/assets/js/index-CSMx8q3u.js"></script>
+    <link rel="stylesheet" crossorigin href="https://userapp.zyrosite.com/1747230908/assets/css/index-DYCAbsfW.css">
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
+</html>
